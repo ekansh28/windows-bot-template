@@ -1,0 +1,2 @@
+D:/windows-bot-template/build/CMakeFiles/ALL_BUILD.dir
+D:/windows-bot-template/build/CMakeFiles/ZERO_CHECK.dir
